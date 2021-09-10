@@ -58,7 +58,7 @@
     "typescript": "^4.3.5"
   },
   "dependencies": {
-    "@actions/core": "^1.4.0",
+    "@actions/core": "^1.5.0",
     "@actions/github": "^5.0.0",
     "@babel/preset-typescript": "^7.14.5",
     "@compodoc/compodoc": "^1.0.5",
